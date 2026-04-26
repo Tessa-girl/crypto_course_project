@@ -1,21 +1,9 @@
-# -*- coding: utf-8 -*-
 """
-DES和AES密码算法演示 - Google Colab版本
-工作模式: ECB (Electronic Codebook Mode)
+==============================================================================================================
 
-🔗 Google Colab 链接:
-点击下方链接在 Google Colab 中打开此代码:
-https://colab.research.google.com/drive/1xxxxxxxxx (需要上传到Google Drive后生成)
+Google Code链接：https://colab.research.google.com/github/Tessa-girl/crypto_course_project/blob/main/crypto.py
 
-或者使用以下方法:
-1. 将此文件上传到 GitHub
-2. 访问: https://colab.research.google.com/github/[用户名]/[仓库名]/blob/main/crypto.py
-
-使用说明:
-1. 在Google Colab中运行此代码
-2. 可以选择加密或解密操作  
-3. 支持DES和AES-128两种算法
-4. 使用ECB工作模式
+==============================================================================================================
 """
 
 import sys
